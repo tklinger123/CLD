@@ -4,6 +4,6 @@ This page contains solutions for some CLD (Certified LabVIEW Developer) exams. T
 
 The following examples from my book can be found here; the Coffee Maker in "main", all others in "otherSolutions":
 
-* Coffee Maker: This is the main example, which is explained in detail in the book.
+* Coffee Maker: This is the main example, which is explained in detail in the book. Nine different version are there to download, they correspond to the respective book's chapters.
 * ATM: This is the CLD solution of the ATMachine; it is also the topic in the CLA section.
 * ...
