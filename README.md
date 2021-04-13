@@ -7,3 +7,4 @@ The following examples from my book can be found here; the Coffee Maker in "main
 * Coffee Maker: This is the main example, which is explained in detail in the book. Nine different version are there to download, they correspond to the respective book's chapters.
 * ATM: This is the CLD solution of the ATMachine; it is also the topic in the CLA section.
 * ...
+![image](https://user-images.githubusercontent.com/36880091/114531819-86ec1b00-9c4c-11eb-9f4b-4880593ca650.png)
