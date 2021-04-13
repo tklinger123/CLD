@@ -2,9 +2,6 @@
 
 This page contains solutions for some CLD (Certified LabVIEW Developer) exams. To use them, simply download the necessary files (preferrably as .zip) and run the on your PC. I did not make use of Github's version management and other functions, simply use it as a file repository.
 
-The following examples from my book can be found here; the Coffee Maker in "main", all others in "otherSolutions":
+Some examples from my book can be found here; the coffee maker, which is explained in detail in the book, in "main", all others in "otherSolutions". Nine different versions of the coffee maker are there to download, they correspond to the respective book's chapters.
 
-* Coffee Maker: This is the main example, which is explained in detail in the book. Nine different version are there to download, they correspond to the respective book's chapters.
-* ATM: This is the CLD solution of the ATMachine; it is also the topic in the CLA section.
-* ...
 ![image](https://user-images.githubusercontent.com/36880091/114531819-86ec1b00-9c4c-11eb-9f4b-4880593ca650.png)
