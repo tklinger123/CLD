@@ -1,7 +1,5 @@
-# CLD - the Coffee Maker
+# CLD - ATM solution
 
-This repository contains solutions for some CLD (Certified LabVIEW Developer) exams. To use them, simply download the necessary files (preferrably as .zip) and run the on your PC. 
 
-Some examples from my book can be found here; the coffee maker, which is explained in detail in the book, in "main", all others in "otherSolutions". Nine different versions of the coffee maker are there to download, they correspond to the respective book chapters.
+![ATM_mainMenu](https://user-images.githubusercontent.com/36880091/114865942-4084f080-9df3-11eb-8cde-1e22ef075b16.PNG)
 
-![image](https://user-images.githubusercontent.com/36880091/114531819-86ec1b00-9c4c-11eb-9f4b-4880593ca650.png)
