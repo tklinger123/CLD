@@ -8,4 +8,5 @@ All examples from my book can be found here; the coffee maker, which is explaine
 
 To view the other solutions, simply click on the branch button at the top and select the solution branch: 
 
-![image](https://user-images.githubusercontent.com/36880091/114867780-7b882380-9df5-11eb-9093-cd89b3367da1.png)
+![image](https://user-images.githubusercontent.com/36880091/114868569-58aa3f00-9df6-11eb-94cb-9ac0bdc9a3aa.png)
+
